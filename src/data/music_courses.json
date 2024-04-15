@@ -1,0 +1,34 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Basics",
+            "slug": "guitar-basics",
+            "description": "Learn the fundamentals of playing the guitar, from chords to strumming techniques.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "https://example.com/guitar-basics.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Piano Mastery",
+            "slug": "piano-mastery",
+            "description": "Master the piano with advanced techniques and theory lessons.",
+            "price": 69.99,
+            "instructor": "Jane Smith",
+            "isFeatured": false,
+            "image": "https://example.com/piano-mastery.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Drumming Essentials",
+            "slug": "drumming-essentials",
+            "description": "Get started with drumming basics and rhythm patterns.",
+            "price": 59.99,
+            "instructor": "Mike Johnson",
+            "isFeatured": true,
+            "image": "https://example.com/drumming-essentials.jpg"
+        }
+    ]
+}
